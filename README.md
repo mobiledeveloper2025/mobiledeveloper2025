@@ -25,7 +25,7 @@
 
 ## ✨ About Me
 
-I'm Oleh, a passionate **mobile app developer** who builds high-performance apps using cross-platform and native technologies.
+I'm Francisco, a passionate **mobile app developer** who builds high-performance apps using cross-platform and native technologies.
 
 - ⚛️ Expert in **React Native** and **Flutter**
 - 🤖 Experienced with **Native Android** (Kotlin, Java)
@@ -51,9 +51,9 @@ I'm Oleh, a passionate **mobile app developer** who builds high-performance apps
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mobiledeveloper2025&show_icons=true&theme=radical" alt="Oleh's GitHub stats"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=mobiledeveloper2025&show_icons=true&theme=radical" alt="Francisco's GitHub stats"/>
   <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mobiledeveloper2025&theme=radical" alt="Oleh's GitHub streak"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mobiledeveloper2025&theme=radical" alt="Francisco's GitHub streak"/>
   <br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mobiledeveloper2025&layout=compact&theme=radical" alt="Top Languages"/>
 </p>
@@ -62,8 +62,8 @@ I'm Oleh, a passionate **mobile app developer** who builds high-performance apps
 
 ## 🔗 Profiles & Contact
 
-- 📧 Email: [olehorlichenko@gmail.com](mailto:olehorlichenko@gmail.com)  
-- 🧑‍💻 GitHub: [@olehorlichenko](https://github.com/mobiledeveloper2025)  
+- 📧 Email: [franciosco](mailto:olehorlichenko@gmail.com)  
+- 🧑‍💻 GitHub: [@mobiledeveloper](https://github.com/mobiledeveloper2025)  
 
 ---
 
